@@ -7,6 +7,8 @@ This repository contains foundational Reinforcement-Learning implementation, org
 3. Temporal-Difference Control on CliffWalking
 
 ## 📂 Repository Structure
+
+```bash
 rl-foundations/
 ├─ README.md              # root = repo-level overview (full context)
 ├─ requirements.txt
@@ -21,6 +23,7 @@ rl-foundations/
    └─ td_cliffwalking/
       ├─ cliffwalking_td.ipynb
       └─ README.md        # specific: SARSA, Q-Learning, CliffWalking env
+```
 
 ## 🚀 Setup
 
