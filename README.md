@@ -7,7 +7,6 @@ This repository contains foundational Reinforcement-Learning implementation, org
 3. Temporal-Difference Control on CliffWalking
 
 ## 📂 Repository Structure
-
 rl-foundations/
 ├─ README.md              # root = repo-level overview (full context)
 ├─ requirements.txt
